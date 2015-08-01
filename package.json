@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rkirov/simple-ng2-traceur/issues"
   },
-  "homepage": "https://github.com/rkirov/simple-ng2-traceur#readme"
+  "homepage": "https://github.com/rkirov/simple-ng2-traceur#readme",
+  "dependencies": {
+    "traceur": "0.0.91"
+  }
 }
